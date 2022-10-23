@@ -12,7 +12,7 @@ describe('Array', () => {
     jest.clearAllMocks()
   })
 
-  test('prototype[@@iterator]()', () => {
+  test('prototype.[@@iterator]()', () => {
     const arr = ['a', 'b', 'c', 'd', 'e']
     const arrIter = arr[Symbol.iterator]()
 
