@@ -1,7 +1,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/@@iterator
 
 describe('Array', () => {
-  describe('prototype.[@@iterator]()', () => {
+  describe('prototype.[@@iterator]', () => {
     let consoleLogSpy
 
     beforeEach(() => {

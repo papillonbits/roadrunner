@@ -1,7 +1,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
 
 describe('Array', () => {
-  describe('prototype.concat()', () => {
+  describe('prototype.concat', () => {
     let consoleLogSpy
 
     beforeEach(() => {

@@ -6,12 +6,15 @@
 
 <p align="center">JavaScript unit tests for JavaScript standard built-in objects and miscellaneous libraries</p>
 
-## MDN
+## JavaScript
 
 - Tests for the following JavaScript standard built-in objects.
   - Array
-  - Object
-  - Promise
+
+## Lodash
+
+- Tests for the following Lodash methods.
+  - Array
 
 # 📚 Concepts
 
