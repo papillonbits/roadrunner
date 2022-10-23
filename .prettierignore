@@ -1,0 +1,19 @@
+# MacOS
+.DS_Store
+
+# Sublime Text
+app.sublime-project
+app.sublime-workspace
+
+# Storybook
+.storybook-static
+
+# Roadrunner
+.coverage
+.husky
+node_modules
+.env
+.npmrc
+codecov
+npm-debug.log
+package-lock.json
