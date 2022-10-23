@@ -7,5 +7,6 @@ module.exports = {
     'no-console': 'off',
     'no-restricted-syntax': 'off',
     'no-sparse-arrays': 'off',
+    'no-underscore-dangle': 'off',
   },
 }
