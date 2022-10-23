@@ -4,9 +4,4 @@
     "prettier --write \"src/**/*.{js,jsx}\"",
     "git add"
   ],
-  "src/**/*.{css,scss}": [
-    "stylelint \"src/**/*.{css,scss}\" --custom-syntax=postcss-scss --fix",
-    "prettier --write \"src/**/*.{css,scss}\"",
-    "git add"
-  ]
 }
