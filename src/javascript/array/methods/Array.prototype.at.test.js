@@ -1,5 +1,3 @@
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at
-
 describe('Array', () => {
   describe('prototype.at', () => {
     let consoleLogSpy
