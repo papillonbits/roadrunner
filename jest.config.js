@@ -15,6 +15,7 @@ const collectCoverageFrom = [
   'src/**/**/*.{js,jsx}',
   '!src/**/**/*.story.js',
   '!src/**/**/*.test.js',
+  '!src/rxjs/**',
 ]
 const coverageThreshold = {
   global: {
