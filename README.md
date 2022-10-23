@@ -1,9 +1,8 @@
 <h1 align="center">Roadrunner Testing Showcase</h1>
 
 <p align="center">
-  <img width="300px" src="roadrunner.jpg">
+  <img width="300px" src="roadrunner.jpeg">
 </p>
-
 
 <p align="center">JavaScript unit tests for JavaScript standard built-in objects and miscellaneous libraries</p>
 
