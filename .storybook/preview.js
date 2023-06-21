@@ -1,6 +1,5 @@
 import { MemoryRouter } from 'react-router-dom'
 import { DocsPage, DocsContainer } from '@storybook/addon-docs/blocks'
-import '@storybook/addon-console'
 
 export const parameters = {
   a11y: {
@@ -19,7 +18,6 @@ export const parameters = {
         <Story />
       </MemoryRouter>
     ),
-    (storyFn, context) => withConsole()(storyFn)(context),
   ],
   docs: { container: DocsContainer, page: DocsPage },
 }
